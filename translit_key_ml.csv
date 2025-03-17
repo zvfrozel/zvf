@@ -74,7 +74,7 @@ Letter,Unicode,Unicode Name,RuneString,MachineString
 ൽ,U+0D7D,"MALAYALAM LETTER CHILLU L",L,L
 ൾ,U+0D7E,"MALAYALAM LETTER CHILLU LL","[LL]",Ƚ
 ൿ,U+0D7F,"MALAYALAM LETTER CHILLU K",K,K
-,,,,,
+,,,,
 റ്റ,"U+0D31 U+0D4D U+0D31","Ligature ṭa (ṟa + virama + ṟa)","[TT]A",ƮA
 ൻ്റ,"U+0D7B U+0D4D U+0D31","Ligature nṭa (chillu-n + virama + ṟa)","N[TT]A",NƮA
 ന്റ,"U+0D28 U+0D4D U+0D31","Alternative ligature nṭa (n + virama + ṟa)","N[TT]A",NƮA
