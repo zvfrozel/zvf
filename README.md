@@ -1,2 +1,2 @@
 # zvf
-## TMWC - Transliterated Malayalam Word Corpus
+## MTWC - Malayalam Transliterated Word Corpus
